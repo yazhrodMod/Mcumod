@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "marvelcinematicuniverse:blocks/vibraniumore",
+    "up": "marvelcinematicuniverse:blocks/vibraniumore",
+    "north": "marvelcinematicuniverse:blocks/vibraniumore",
+    "east": "marvelcinematicuniverse:blocks/vibraniumore",
+    "south": "marvelcinematicuniverse:blocks/vibraniumore",
+    "west": "marvelcinematicuniverse:blocks/vibraniumore",
+    "particle": "marvelcinematicuniverse:blocks/vibraniumore"
+  }
+}
